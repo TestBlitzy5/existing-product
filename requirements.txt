@@ -1,0 +1,5 @@
+# Python dependencies for hello_world application
+# Replaces package.json from the Node.js implementation
+
+# HTTP server framework - provides lightweight routing and server capabilities
+Flask==2.3.3
